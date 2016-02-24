@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>http://pincomarchino.altervista.org/martaan/index.html</loc>
+    <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/castello.jpg</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+    <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/glossy.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+    <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/hearths.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+        <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/logo.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+    <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/lost.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+        <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/Relive.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+    <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/super_mario.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+        <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/window.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+    <image:image>
+       <image:loc>http://pincomarchino.altervista.org/martaan/images/portfolio/.png</image:loc>
+       <image:caption>marco tabone web designer</image:caption>
+    </image:image> 
+  </url>
+
+</urlset>
